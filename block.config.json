@@ -1,0 +1,12 @@
+{
+  "name": "testdemopack",
+  "type": "package",
+  "blockId": "nDh2J2blljWvgW2QNp4OK",
+  "source": {
+    "https": "https://github.com/devthalal/testdemopack",
+    "ssh": "git@github.com:devthalal/testdemopack.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ]
+}
